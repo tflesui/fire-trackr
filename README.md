@@ -4,7 +4,7 @@ A ReactJS project using API calls
 
 ---
 
-Check out the [Live Version](here)
+Check out the [Live Version](http://firetrackr.netlify.app)
 
 ---
 
